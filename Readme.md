@@ -8,8 +8,10 @@ As perguntas são dispostas na página principal.
 
 ![Página inicial](/public/img/pag_inicial.png)
 
-Podem ser feitas perguntas
+Podem ser feitas perguntas.
+
 ![Página inicial](/public/img/pag_perguntar.png)
 
-Perguntas podem ser respondidas e respostas antigas podem ser visualizadas
+Perguntas podem ser respondidas e respostas antigas podem ser visualizadas.
+
 ![Página inicial](/public/img/pag_respostas.png)
