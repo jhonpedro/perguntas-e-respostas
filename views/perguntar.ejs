@@ -1,0 +1,25 @@
+<%- include ('partials/header.ejs') %>
+<body> 
+  <%- include ('partials/navbar.ejs') %> 
+    <div class="container">
+      <div class="card mt-5">
+        <div class="card-header">
+          <h3>Realizar pergunta</h3>
+        </div>
+        <div class="card-body">
+          <form method="POST" action="/salvarpergunta">
+            <label for="title" class="lead">Título da pergunta:</label>
+            <input type="text" id="title" class="form-control" name="titulo">
+            <label for="description" class="mt-2 lead">Descrição da pergunta:</label>
+            <textarea class="form-control" name="descricao" id="description" cols="30" rows="10"></textarea>
+            <div class="d-flex aling-items-end">
+              <a href="/" class="d-inline-block mt-3 btn btn-outline-info">Voltar</a>
+              <button type="submit" class="ml-auto d-inline-block mt-3 btn btn-outline-info">Perguntar</button>
+            </div>
+          </form>
+        </div>
+      </div>
+      
+    </div>
+</body>
+<%- include ('partials/footer.ejs') %> 
