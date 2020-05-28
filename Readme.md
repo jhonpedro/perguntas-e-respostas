@@ -1,6 +1,6 @@
 # App Perguntas e respostas
 
-Um site apenas feito para perguntas e respostas dos usuários. Há uma interação com um banco de dados MYsql local que pode ser expandido
+Um site apenas feito para perguntas e respostas dos usuários. Há uma interação com um banco de dados MYsql local que pode ser expandido. Foram utilizados ícones do [FontAwesome](https://fontawesome.com/start) 
 
 # Visualizando o App
 
